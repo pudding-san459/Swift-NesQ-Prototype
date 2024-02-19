@@ -1,4 +1,4 @@
-# Swift-NesQ-Prototype
+# SwiftUI-NesQ-Prototype
 
 App Solution
 - To rescue animals especially stray animals to be treated well and find their home.
